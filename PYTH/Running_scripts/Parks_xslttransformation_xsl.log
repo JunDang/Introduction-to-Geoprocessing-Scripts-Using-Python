@@ -1,0 +1,36 @@
+[ERROR] - ESRITranslator - Error [InvalidForOne]: <metadata> for-one clause: em:dateStamp(v:Metadata, v:Date) <mdDateSt>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[MD_Distributor] clause:  for-one clause: em:distributorContact(v:Subject, v:Object) <distorCont>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:definition (v:Subject, v:String) <attrdef>
+
+[ERROR] - ESRITranslator - Error [InvalidForOne]: fragment[FieldDescription] clause:  for-one clause: em:source (v:Subject, v:String) <attrdefs>
+

@@ -1,0 +1,2 @@
+200108151127   0     1     0gary CLIPDEM3 = con(isnull(lakegrd1), clipdem2, 1899)
+200108151134   0     0     0gary RENAME clipdem3 arELEV

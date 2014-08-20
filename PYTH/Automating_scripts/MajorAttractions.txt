@@ -1,0 +1,11 @@
+MajorAttractions field information
+----------------------------------
+Name: OBJECTID, Type: OID, Length: 4
+Name: NAME, Type: String, Length: 35
+Name: ESTAB, Type: Integer, Length: 4
+Name: ADDR, Type: String, Length: 32
+Name: CITYNM, Type: String, Length: 16
+Name: ZIP, Type: String, Length: 5
+Name: EMP, Type: Integer, Length: 4
+Name: ACRES, Type: Integer, Length: 4
+Name: Shape, Type: Geometry, Length: 0
